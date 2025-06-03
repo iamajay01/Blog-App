@@ -2,7 +2,6 @@
 
 Welcome to the Blog App repository! This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
 
-also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/E-commerce-website-using-React-Redux)
 
 ## Functionalities
 
@@ -57,17 +56,3 @@ cd client && npm start
 
 6. Access the application in your web browser at [http://localhost:3000](http://localhost:3000).
 
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to this project, please feel free to open an issue or Make a PR.
-
-
-## Acknowledgments
-
-We would like to thank all contributors and the open-source community for their support.
-
----
-
-Feel free to explore the codebase and start creating and sharing your blogs with the world! If you have any questions or need assistance, please don't hesitate to reach out.
-
-Happy blogging!
